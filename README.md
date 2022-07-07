@@ -1,5 +1,11 @@
 # Matlab-Image-Processing-Old-Project
-Its an old project i worked on during 2020 for a course in engineering, It was on Matlab also i was endorsed by the faculty on it for which i was issued an official letter.I am posting this repo as just a "collection" of my works
+Its an old project i worked on during 2020 for a course in engineering, It was on Matlab also i was endorsed by the faculty on it for which i was issued an official letter.I am posting this repo as just a "collection" of my works.
+
+# This Project was processed on Matlab [https://www.mathworks.com/]
+
+![Internship-on-Image-Processing-using-MATLAB-IETE-1](https://user-images.githubusercontent.com/34340232/177779465-fd303cb2-9165-4804-90e7-ffe04342d597.jpg)
+
+
 
 # Figure 1
 
